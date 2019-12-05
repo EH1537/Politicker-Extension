@@ -28,7 +28,12 @@ const politic = {
     "Name":"Aston Donald McEachin",
     "State":"Virginia-4",
     "Party":"(D)",
-    "Url":"https://en.wikipedia.org/wiki/Aston_McEachin"},         
+    "Url":"https://en.wikipedia.org/wiki/Aston_McEachin"},
+  "Jesus Garcia" : {
+    "Name":"Jesus Garcia",
+    "State":"Illinois-4",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Jesus_Garcia"},       
 }
 
 let elements = document.getElementsByTagName('P');
