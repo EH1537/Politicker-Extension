@@ -3,6 +3,9 @@
     "name": "Evan Hilton & Linda Wishingrad",
     "description": "places link for politicians (congress for now)",
     "version": "0.1",
+    "icons": {
+        "128": "images/USFlag.png"
+      },
     "content_scripts": [
         {
             "matches": [
