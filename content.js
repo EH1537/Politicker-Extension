@@ -304,6 +304,347 @@ const politic = {
     "State":"Florida-13",
     "Party":"(D)",
     "Url":"https://en.wikipedia.org/wiki/Charlie_Crist"},
+  "Scott Peters" : {
+    "Name":"Scott Peters",
+    "State":"California-52",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Scott_Peters"},
+  "Suzanne Bonamici" : {
+    "Name":"Suzanne Bonamici",
+    "State":"Oregon-1",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Suzanne_Bonamici"},
+  "Bonnie Watson Coleman" : {
+    "Name":"Bonnie Watson Coleman",
+    "State":"New Jersey-12",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Bonnie_Watson_Coleman"},
+  "Bruce Westerman" : {
+    "Name":"Bruce Westerman",
+    "State":"Arkansas-4",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Bruce_Westerman"},
+  "Eleanor Norton" : {
+      "Name":"Eleanor Norton",
+      "State":"-of Columbia At-large District",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Eleanor_Holmes_Norton"},
+  "Salud Carbajal" : {
+    "Name":"Salud Carbajal",
+    "State":"California-24",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Salud_Carbajal"},
+  "Madeleine Dean" : {
+    "Name":"Madeleine Dean",
+    "State":"Pennsylvania-4",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Madeleine_Dean"},
+  "Roger Williams" : {
+    "Name":"Roger Williams",
+    "State":"Texas-25",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Roger_Williams"},
+  "Bill Pascrell" : {
+    "Name":"Bill Pascrell",
+    "State":"New Jersey-9",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Bill_Pascrell"},
+  "Kenny Marchant" : {
+    "Name":"Kenny Marchant",
+    "State":"Texas-24",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Kenny_Marchant"},
+  "Mac Thornberry" : {
+    "Name":"Mac Thornberry",
+    "State":"Texas-13",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Mac_Thornberry"},
+  "Daniel Crenshaw" : {
+    "Name":"Daniel Crenshaw",
+    "State":"Texas-2",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Daniel_Crenshaw"},
+  "Kim Schrier" : {
+    "Name":"Kim Schrier",
+    "State":"Washington-8",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Kim_Schrier"},
+  "Jimmy Panetta" : {
+    "Name":"Jimmy Panetta",
+    "State":"California-20",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Jimmy_Panetta"},
+  "Eddie Johnson" : {
+    "Name":"Eddie Johnson",
+    "State":"Texas-30",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Eddie_Bernice_Johnson"},
+  "Michael Turner" : {
+    "Name":"Michael Turner",
+    "State":"Ohio-10",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Michael_Turner"},
+  "Charles Fleischmann" : {
+    "Name":"Charles Fleischmann",
+    "State":"Tennessee-3",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Charles_J._Fleischmann"},
+  "Sheila Lee" : {
+    "Name":"Sheila Lee",
+    "State":"Texas-18",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Sheila_Jackson_Lee"},
+  "Sam Graves" : {
+    "Name":"Sam Graves",
+    "State":"Missouri-6",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Sam_Graves"},
+  "Susan Brooks" : {
+    "Name":"Susan Brooks",
+    "State":"Indiana-5",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Susan_Brooks"},
+  "Greg Steube" : {
+    "Name":"Greg Steube",
+    "State":"Florida-17",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Greg_Steube"},
+  "Elaine Luria" : {
+    "Name":"Elaine Luria",
+    "State":"Virginia-2",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Elaine_Luria"},
+  "Randy Weber" : {
+    "Name":"Randy Weber",
+    "State":"Texas-14",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Randy_Weber"},
+  "Gregory Meeks" : {
+    "Name":"Gregory Meeks",
+    "State":"New York-5",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Gregory_W._Meeks"},
+  "Theodore E. Deutch" : {
+    "Name":"Theodore E. Deutch",
+    "State":"Florida-22",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Theodore_E._Deutch"},
+  "Gregory Murphy" : {
+    "Name":"Gregory Murphy",
+    "State":"North Carolina-3",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Gregory_Murphy"},
+  "Ruben Gallego" : {
+    "Name":"Ruben Gallego",
+    "State":"Arizona-7",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Ruben_Gallego"},
+  "Abigail Spanberger" : {
+    "Name":"Abigail Spanberger",
+    "State":"Virginia-7",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Abigail_Spanberger"},
+  "Neal Dunn" : {
+    "Name":"Neal Dunn",
+    "State":"Florida-2",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Neal_Dunn"},
+  "Colin Allred" : {
+    "Name":"Colin Allred",
+    "State":"Texas-32",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Colin_Allred"},
+  "Raul Grijalva" : {
+    "Name":"Raul Grijalva",
+    "State":"Arizona-3",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Raul_Grijalva"},
+  "Steve Cohen" : {
+    "Name":"Steve Cohen",
+    "State":"Tennessee-9",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Steve_Cohen"},
+  "Emanuel Cleaver" : {
+    "Name":"Emanuel Cleaver",
+    "State":"Missouri-5",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Emanuel_Cleaver"},
+  "Bryan Steil" : {
+    "Name":"Bryan Steil",
+    "State":"Wisconsin-1",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Bryan_Steil"},
+  "Garret Graves" : {
+    "Name":"Garret Graves",
+    "State":"Louisiana-6",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Garret_Graves"},
+  "John Garamendi" : {
+    "Name":"John Garamendi",
+    "State":"California-3",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/John_Garamendi"},
+  "Debbie Lesko" : {
+    "Name":"Debbie Lesko",
+    "State":"Arizona-8",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Debbie_Lesko"},
+  "Tom O'Halleran" : {
+    "Name":"Tom O'Halleran",
+    "State":"Arizona-1",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Tom_O'Halleran"},
+  "Troy Balderson" : {
+    "Name":"Troy Balderson",
+    "State":"Ohio-12",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/Troy_Balderson"},
+  "Rashida Tlaib" : {
+    "Name":"Rashida Tlaib",
+    "State":"Michigan-13",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Rashida_Tlaib"},
+  "Katherine Clark" : {
+    "Name":"Katherine Clark",
+    "State":"Massachusetts-5",
+    "Party":"(D)",
+    "Url":"https://en.wikipedia.org/wiki/Katherine_Clark"},
+  "John Ratcliffe" : {
+    "Name":"John Ratcliffe",
+    "State":"Texas-4",
+    "Party":"(R)",
+    "Url":"https://en.wikipedia.org/wiki/John_Ratcliffe"},
+    "Steve Chabot" : {
+      "Name":"Steve Chabot",
+      "State":"Ohio-1",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Steve_Chabot"},
+      "Mark Meadows" : {
+      "Name":"Mark Meadows",
+      "State":"North Carolina-11",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Mark_Meadows"},
+      "Donna Shalala" : {
+      "Name":"Donna Shalala",
+      "State":"Florida-27",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Donna_Shalala"},
+      "Mikie Sherrill" : {
+      "Name":"Mikie Sherrill",
+      "State":"New Jersey-11",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Mikie_Sherrill"},
+      "Earl Carter" : {
+      "Name":"Earl Carter",
+      "State":"Georgia-1",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Buddy_Carter"},
+      "Mike Quigley" : {
+      "Name":"Mike Quigley",
+      "State":"Illinois-5",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Mike_Quigley"},
+      "Kevin McCarthy" : {
+      "Name":"Kevin McCarthy",
+      "State":"California-23",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Kevin_McCarthy"},
+      "Michael Doyle" : {
+      "Name":"Michael Doyle",
+      "State":"Pennsylvania-18",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Michael_Doyle"},
+      "Ann Wagner" : {
+      "Name":"Ann Wagner",
+      "State":"Missouri-2",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Ann_Wagner"},
+      "Chellie Pingree" : {
+      "Name":"Chellie Pingree",
+      "State":"Maine-1",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Chellie_Pingree"},
+      "John Rutherford" : {
+      "Name":"John Rutherford",
+      "State":"Florida-4",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/John_Rutherford"},
+      "Kevin Brady" : {
+      "Name":"Kevin Brady",
+      "State":"Texas-8",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Kevin_Brady"},
+      "Robin Kelly" : {
+      "Name":"Robin Kelly",
+      "State":"Illinois-2",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Robin_Kelly"},
+      "Richard Neal" : {
+      "Name":"Richard Neal",
+      "State":"Massachusetts-1",
+      "Party":"(D)",
+      "Url":"https://en.wikipedia.org/wiki/Richard_Neal"},
+      "Martha Roby" : {
+      "Name":"Martha Roby",
+      "State":"Alabama-2",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Martha_Roby"},
+      "Steve Scalise" : {
+      "Name":"Steve Scalise",
+      "State":"Louisiana-1",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Steve_Scalise"},
+      "Paul Cook" : {
+      "Name":"Paul Cook",
+      "State":"California-8",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Paul_Cook"},
+      "Glenn Grothman" : {
+      "Name":"Glenn Grothman",
+      "State":"Wisconsin-6",
+      "Party":"(R)",
+      "Url":"https://en.wikipedia.org/wiki/Glenn_Grothman"}, 
+      "Kathleen Rice" : {
+        "Name":"Kathleen Rice",
+        "State":"New York-4",
+        "Party":"(D)",
+        "Url":"https://en.wikipedia.org/wiki/Kathleen_Rice"},
+        "John Rose" : {
+        "Name":"John Rose",
+        "State":"Tennessee-6",
+        "Party":"(R)",
+        "Url":"https://en.wikipedia.org/wiki/John_Rose"},
+        "Antonio Delgado" : {
+        "Name":"Antonio Delgado",
+        "State":"New York-19",
+        "Party":"(D)",
+        "Url":"https://en.wikipedia.org/wiki/Antonio_Delgado"},
+        "Donald Beyer" : {
+        "Name":"Donald Beyer",
+        "State":"Virginia-8",
+        "Party":"(D)",
+        "Url":"https://en.wikipedia.org/wiki/Don_Beyer"},
+        "Dan Newhouse" : {
+        "Name":"Dan Newhouse",
+        "State":"Washington-4",
+        "Party":"(R)",
+        "Url":"https://en.wikipedia.org/wiki/Dan_Newhouse"},
+        "Hal Rogers" : {
+        "Name":"Hal Rogers",
+        "State":"Kentucky-5",
+        "Party":"(R)",
+        "Url":"https://en.wikipedia.org/wiki/Hal_Rogers"},
+        "John A. Yarmuth" : {
+        "Name":"John A. Yarmuth",
+        "State":"Kentucky-3",
+        "Party":"(D)",
+        "Url":"https://en.wikipedia.org/wiki/John_A._Yarmuth"},
+        "Russ Fulcher" : {
+        "Name":"Russ Fulcher",
+        "State":"Idaho-1",
+        "Party":"(R)",
+        "Url":"https://en.wikipedia.org/wiki/Russ_Fulcher"},
+        
 }
 
 let elements = document.getElementsByTagName('P');
