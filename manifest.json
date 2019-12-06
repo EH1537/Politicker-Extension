@@ -1,6 +1,6 @@
 {
 "manifest_version": 2,
-    "name": "Evan Hilton & Linda Wishingrad",
+    "name": "Politicker",
     "description": "places link for politicians (congress for now)",
     "version": "0.1",
     "icons": {
@@ -12,7 +12,8 @@
                 "*://*/*"
             ],
             "js": [
-                "content.js"
+              "module.js",  
+              "content.js"
             ],
             "run_at": "document_end"
         }
